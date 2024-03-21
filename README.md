@@ -13,9 +13,9 @@
 
                   🔥🔥🔥🔥🔥🔥🔥
 
-- 💪** Let's go pour une autre Formation et recherche d'alternance <br>
+- 💪** Let's go pour une autre Formation et recherche d'alternance** <br>
    📢 MES GOALS: **Consolider ce que je connais déjà <br>
-                 **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ...** <br>
+                 **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ... <br>
                  
                  🔥🔥🔥🔥🔥🔥🔥
 
