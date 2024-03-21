@@ -13,7 +13,7 @@
 
 - 🌱 **PHP, Symphony, JavaScript, MySQL ...**
   
-- 💻 Stage de 4 mois => architecture d'une application de réservation de chambres d'hôtes **PHP, MySQL, PhpMailer...**
+- 💻 Stage de 4 mois => architecture d'une application de réservation de chambres d'hôtes => **PHP, MySQL, PhpMailer...**
   
 - 📫 Pour me contacter **kadija.dev@gmail.com**
 
