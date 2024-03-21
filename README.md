@@ -3,26 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadija-t&label=Profile%20views&color=0e75b6&style=flat" alt="kadija-t" /> </p>
 
-- 🔥💪 Let's go pour une autre Formation et recherche d'alternance
-   📢 MES GOALS: **consolider ce que je connais déjà
-                 **Apprendre de nouveaux languages; dans ma liste =>REACT/TYPESCRIPT ... le reste ça arrive                                               
+- 🔥💪 Let's go pour une autre Formation et recherche d'alternance <br>
+   📢 MES GOALS: **Consolider ce que je connais déjà <br>
+                 **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ... <br>
+                 
+<<strong> Mon parcours dans le web ..so far.. : </strong> <br>
   
-- 💻 Stage de 4 mois => architecture d'une appli style Airbnb
+- 🔭 Première formation Développeur web (6 mois) terminée. Le stack technique ?👇
+
+- 🌱 **PHP, Symphony, JavaScript, MySQL ...**
   
-- 🔭  Première formation pour être Dev terminée. Les stacks ?👇
-
-- 🌱 J'apprends **PHP, Symphony, JavaScript ...**
-
+- 💻 Stage de 4 mois => architecture d'une application de réservation de chambres d'hôtes **PHP, MySQL, PhpMailer...**
+  
 - 📫 Pour me contacter **kadija.dev@gmail.com**
 
 <strong> English Sum up</strong>
 
-- 👩‍🎓 Presently in my professional transition, I've ended a first course in web engineering a few months ago, followed by a 4-month internship. 
+- 👩‍🎓 I'm presently undergoing a professional transition, I've completed a first course in web engineering a few months ago, followed by a 4-month internship. 
 
-- 💻 After a tiny winy break, I'm coding again and most importantly I'm about to start another course that will enable me to extend my stack thanks to REACT among otherS. 
+- 💻 After a tiny break, I'm back to coding again, more importantly, I'm about to start another course that will enable me to expand my stack with a focus on REACT among other languages.
 
--![HowIMetYourMotherHighFiveGIF](https://github.com/Kadija-t/Kadija-t/assets/121161600/3e5b5030-b4ca-4c0d-8ec4-621ab99d3493)
- For any project, partnership or just networking feel free to get in touch 😊👇
+- 🤝 Feel free to reach out for projects, partnerships or networking opportunities😊👇
 
 - 📫  **kadija.dev@gmail.com**
   
