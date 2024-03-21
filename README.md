@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadija-t&label=Profile%20views&color=0e75b6&style=flat" alt="kadija-t" /> </p>
 
-- 🔥💪 Let's go pour une autre Formation et recherche d'alternance <br>
-   📢 MES GOALS: **Consolider ce que je connais déjà <br>
-                 **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ... <br>
-                 
 <strong> 🤓Mon parcours dans le web🤓: </strong> <br>
   
 - 🔭 Première formation Développeur web (6 mois) terminée. Le stack technique ?👇
@@ -14,6 +10,15 @@
 - 🌱 **PHP, Symphony, JavaScript, MySQL ...**
   
 - 💻 Stage de 4 mois => architecture d'une application de réservation de chambres d'hôtes => **PHP, MySQL, PhpMailer...**
+
+                  🔥🔥🔥🔥🔥🔥🔥
+
+- 💪** Let's go pour une autre Formation et recherche d'alternance <br>
+   📢 MES GOALS: **Consolider ce que je connais déjà <br>
+                 **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ...** <br>
+                 
+                 🔥🔥🔥🔥🔥🔥🔥
+
   
 - 📫 Pour me contacter **kadija.dev@gmail.com**
 
