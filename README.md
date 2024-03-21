@@ -3,12 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadija-t&label=Profile%20views&color=0e75b6&style=flat" alt="kadija-t" /> </p>
 
-- 🔭 En formation, je travaille sur **Projet de fin de formation** 
+- 🔥💪 Let's go pour une autre Formation et recherche d'alternance
+   📢 MES GOALS: **consolider ce que je connais déjà
+                 **Apprendre de nouveaux languages; dans ma liste =>REACT/TYPESCRIPT ... le reste ça arrive                                               
+  
+- 💻 Stage de 4 mois => architecture d'une appli style Airbnb
+  
+- 🔭  Première formation pour être Dev terminée. Les stacks ?👇
 
-- 🌱 J'apprends **PHP, Symphony, Laravel, Ajax...**
+- 🌱 J'apprends **PHP, Symphony, JavaScript ...**
 
 - 📫 Pour me contacter **kadija.dev@gmail.com**
 
+<strong> English Sum up</strong>
+
+- 👩‍🎓 Presently in my professional transition, I've ended a first course in web engineering a few months ago, followed by a 4-month internship. 
+
+- 💻 After a tiny winy break, I'm coding again and most importantly I'm about to start another course that will enable me to extend my stack thanks to REACT among otherS. 
+
+-![HowIMetYourMotherHighFiveGIF](https://github.com/Kadija-t/Kadija-t/assets/121161600/3e5b5030-b4ca-4c0d-8ec4-621ab99d3493)
+ For any project, partnership or just networking feel free to get in touch 😊👇
+
+- 📫  **kadija.dev@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
