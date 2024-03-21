@@ -11,13 +11,13 @@
   
 - 💻 Stage de 4 mois => architecture d'une application de réservation de chambres d'hôtes => **PHP, MySQL, PhpMailer...**
 
-                  🔥🔥🔥🔥🔥🔥🔥
-
-- 💪** Let's go pour une autre Formation et recherche d'alternance** <br>
+                  
+***
+  🔥🔥🔥🔥🔥🔥🔥  - 💪 Let's go pour une autre Formation et recherche d'alternance <br>
    📢 MES GOALS: **Consolider ce que je connais déjà <br>
-                 **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ... <br>
+                 **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ... <br> 🔥🔥🔥🔥🔥🔥🔥
                  
-                 🔥🔥🔥🔥🔥🔥🔥
+***
 
   
 - 📫 Pour me contacter **kadija.dev@gmail.com**
