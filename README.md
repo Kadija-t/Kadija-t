@@ -7,7 +7,7 @@
    📢 MES GOALS: **Consolider ce que je connais déjà <br>
                  **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ... <br>
                  
-<<strong> Mon parcours dans le web ..so far.. : </strong> <br>
+<strong> Mon parcours dans le web ..so far.. : </strong> <br>
   
 - 🔭 Première formation Développeur web (6 mois) terminée. Le stack technique ?👇
 
