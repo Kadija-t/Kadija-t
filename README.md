@@ -17,7 +17,7 @@
   
 - 📫 Pour me contacter **kadija.dev@gmail.com**
 
-<strong> English Sum up</strong>
+<strong> 🔥English Sum up🔥</strong>
 
 - 👩‍🎓 I'm presently undergoing a professional transition, I've completed a first course in web engineering a few months ago, followed by a 4-month internship. 
 
