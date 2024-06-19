@@ -13,7 +13,7 @@
 
                   
 ***
-  - 💪 Let's go pour une autre Formation et recherche d'alternance <br>
+  - 💪 Seconde Formation <br>
    📢 MES GOALS: **Consolider ce que je connais déjà <br>
                  **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ... <br>
                  
@@ -24,7 +24,7 @@
 
 - 👩‍🎓 I'm presently undergoing a professional transition, I've completed a first course in web engineering a few months ago, followed by a 4-month internship. 
 
-- 💻 After a tiny break, I'm back to coding again, more importantly, I'm about to start another course that will enable me to expand my stack with a focus on REACT among other languages.
+- 💻 After a tiny break, I'm back to coding again, more importantly, I'm following another course that will enable me to expand my stack with a focus on REACT among other languages.
 
 - 🤝 Feel free to reach out for projects, partnerships or networking opportunities😊👇
 
