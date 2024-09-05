@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>👋 Hi, my name is Kadija!</h1>
-</p>
+# Hi👋  my name is Kadija!
 
 # 👩‍💻 Web Developer Intern | Specializing in JavaScript and React
 
@@ -23,10 +21,11 @@ Transitioning from a career in education, I've embraced a growing passion for we
 I’ve applied my skills through a hands-on internship, focusing on PHP and JavaScript to develop practical solutions and manage databases.
 
 ## 🌟 Strengths:
-With a strong sense of teamwork, perseverance, and a passion for continuous learning, I’m driven to contribute and grow in dynamic web development environments.
+With a strong sense of teamwork, perseverance, and a passion for continuous learning, I’m determined to contribute and grow in dynamic web development environments.
 
 ## 🎯 Looking for:
-A 24-month web development apprenticeship where I can put into practice my technical skills while continuing to evolve professionally. I am also open to various opportunities and projects.
+A 24-month web development apprenticeship where I can put into practice my technical skills while continuing to evolve and specialize in REACT. 
+* I am also open to various opportunities and projects.
 
 ## 🔗 Explore my projects:
 [Portfolio in progress](#) – Coming soon!
@@ -40,7 +39,7 @@ A 24-month web development apprenticeship where I can put into practice my techn
 
 # 👩‍💻 Développeuse Web en alternance | Spécialisation JavaScript et React 
 
-Après une carrière dans l'enseignement, j'ai découvert une passion croissante pour le développement web. Mon parcours inclut :
+Après une carrière dans l'enseignement, je me suis découvert une passion croissante pour le développement web. Mon parcours inclut :
 
 ## 🔧 Compétences :
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=E34F26)
@@ -59,10 +58,11 @@ Après une carrière dans l'enseignement, j'ai découvert une passion croissante
 J'ai mis en pratique mes compétences lors d'un stage, en développant des solutions concrètes en PHP et JavaScript et en gérant des bases de données.
 
 ## 🌟 Points forts :
-Avec un sens aigu du travail en équipe, de la persévérance, et une passion pour l'apprentissage continu, je suis motivée pour contribuer et évoluer dans des environnements de développement dynamique.
+Avec un goût prononcé pour le travail en équipe, ma persévérance, et une passion pour l'apprentissage continu, je suis déterminée à contribuer et évoluer dans des environnements de développement dynamique.
 
 ## 🎯 En recherche :
-Une alternance de 24 mois en développement web où je pourrai mettre en œuvre mes compétences et continuer à progresser professionnellement. Je suis également ouverte à diverses opportunités et projets.
+Une alternance de 24 mois en développement web où je pourrai mettre en pratique mes compétences et continuer à progresser tout en me spécialisant en REACT. 
+* Je suis également ouverte à diverses opportunités et projets.
 
 ## 🔗 Découvrez mes projets :
 [Portfolio en cours](#) – À venir bientôt !
