@@ -1,42 +1,67 @@
-<h1 align="center">Hi 👋, I'm Kadija</h1>
-<h3 align="center">Développeuse web - Web engineer </h3>
+# 👩‍💻 Web Developer Intern | Specializing in JavaScript and React
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadija-t&label=Profile%20views&color=0e75b6&style=flat" alt="kadija-t" /> </p>
+Transitioning from a career in education, I've embraced a growing passion for web development. My journey includes:
 
-<strong> 🤓Mon parcours dans le web🤓: </strong> <br>
-  
-- 🔭 Première formation Développeur web (6 mois) terminée. Le stack technique ?👇
+## 🔧 Skills:
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=8CC84B)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=4285F4) 
 
-- 🌱 **PHP, Symphony, JavaScript, MySQL ...**
-  
-- 💻 Stage de 4 mois => architecture d'une application de réservation de chambres d'hôtes => **PHP, MySQL, PhpMailer...**
+## 💡 Experience:
+I’ve applied my skills through a hands-on internship, focusing on PHP and JavaScript to develop practical solutions and manage databases.
 
-                  
-***
-  - 💪 Seconde Formation <br>
-   📢 MES GOALS: **Consolider ce que je connais déjà <br>
-                 **Apprendre de nouveaux languages =>REACT/TYPESCRIPT ... <br>
-                 
--📫 Pour me contacter **kadija.dev@gmail.com**
+## 🌟 Strengths:
+With a strong sense of teamwork, perseverance, and a passion for continuous learning, I’m driven to contribute and grow in dynamic web development environments.
 
-*** 
-<strong> 🔥English Sum up🔥</strong>
+## 🎯 Looking for:
+A 24-month web development apprenticeship where I can put into practice my technical skills while continuing to evolve professionally. I am also open to various opportunities and projects.
 
-- 👩‍🎓 I'm presently undergoing a professional transition, I've completed a first course in web engineering a few months ago, followed by a 4-month internship. 
+## 🔗 Explore my projects:
+[Portfolio in progress](#) – Coming soon!
 
-- 💻 After a tiny break, I'm back to coding again, more importantly, I'm following another course that will enable me to expand my stack with a focus on REACT among other languages.
+## 📬 Get in touch:
+- **Email:** kadija.dev@gmail.com  
 
-- 🤝 Feel free to reach out for projects, partnerships or networking opportunities😊👇
+---
 
-- 📫  **kadija.dev@gmail.com**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🇫🇷 Version française ci-dessous ⬇️
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+# 👩‍💻 Développeuse Web en alternance | Spécialisation JavaScript et React 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadija-t&show_icons=true&locale=en&layout=compact" alt="kadija-t" /></p>
+Après une carrière dans l'enseignement, j'ai découvert une passion croissante pour le développement web. Mon parcours inclut :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadija-t&show_icons=true&locale=en" alt="kadija-t" /></p>
+## 🔧 Compétences :
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=8CC84B)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=4285F4)
+
+## 💡 Expérience :
+J'ai mis en pratique mes compétences lors d'un stage, en développant des solutions concrètes en PHP et JavaScript et en gérant des bases de données.
+
+## 🌟 Points forts :
+Avec un sens aigu du travail en équipe, de la persévérance, et une passion pour l'apprentissage continu, je suis motivée pour contribuer et évoluer dans des environnements de développement dynamique.
+
+## 🎯 En recherche :
+Une alternance de 24 mois en développement web où je pourrai mettre en œuvre mes compétences et continuer à progresser professionnellement. Je suis également ouverte à diverses opportunités et projets.
+
+## 🔗 Découvrez mes projets :
+[Portfolio en cours](#) – À venir bientôt !
+
+## 📬 Contactez-moi :
+- **Email :** kadija.dev@gmail.com  
