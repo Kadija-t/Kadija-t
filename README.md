@@ -1,3 +1,7 @@
+<p align="center">
+  <h1>👋 Hi, my name is Kadija!</h1>
+</p>
+
 # 👩‍💻 Web Developer Intern | Specializing in JavaScript and React
 
 Transitioning from a career in education, I've embraced a growing passion for web development. My journey includes:
