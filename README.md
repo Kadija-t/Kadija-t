@@ -1,6 +1,6 @@
-# Hi👋  my name is Kadija!
+# Hi👋 my name is Kadija!
 
-# 👩‍💻 Web Developer Intern | Specializing in JavaScript and React
+# 👩‍💻 Junior Web Developer
 
 Transitioning from a career in education, I've embraced a growing passion for web development. My journey includes:
 
@@ -15,7 +15,7 @@ Transitioning from a career in education, I've embraced a growing passion for we
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=4285F4) 
+![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=google&logoColor=4285F4)
 
 ## 💡 Experience:
 I’ve applied my skills through a hands-on internship, focusing on PHP and JavaScript to develop practical solutions and manage databases.
@@ -24,8 +24,7 @@ I’ve applied my skills through a hands-on internship, focusing on PHP and Java
 With a strong sense of teamwork, perseverance, and a passion for continuous learning, I’m determined to contribute and grow in dynamic web development environments.
 
 ## 🎯 Looking for:
-A 24-month web development apprenticeship where I can put into practice my technical skills while continuing to evolve and specialize in REACT. 
-* I am also open to various opportunities and projects.
+A Junior Web Developer position where I can apply my skills to real projects bring my soft skills to the company and continue to evolve. I am also open to various opportunities, collaborations, and projects.
 
 ## 🔗 Explore my projects:
 [Portfolio in progress](#) – Coming soon!
@@ -37,7 +36,7 @@ A 24-month web development apprenticeship where I can put into practice my techn
 
 ## 🇫🇷 Version française ci-dessous ⬇️
 
-# 👩‍💻 Développeuse Web en alternance | Spécialisation JavaScript et React 
+# 👩‍💻 Développeuse Web Junior
 
 Après une carrière dans l'enseignement, je me suis découvert une passion croissante pour le développement web. Mon parcours inclut :
 
@@ -61,8 +60,7 @@ J'ai mis en pratique mes compétences lors d'un stage, en développant des solut
 Avec un goût prononcé pour le travail en équipe, ma persévérance, et une passion pour l'apprentissage continu, je suis déterminée à contribuer et évoluer dans des environnements de développement dynamique.
 
 ## 🎯 En recherche :
-Une alternance de 24 mois en développement web où je pourrai mettre en pratique mes compétences et continuer à progresser tout en me spécialisant en REACT. 
-* Je suis également ouverte à diverses opportunités et projets.
+Un poste de Développeuse Web Junior où je pourrai mettre en pratique mes compétences sur des projets concrets et apporter mes soft skills tout en continuant à évoluer. Je suis également ouverte à toute proposition, collaboration ou projet.
 
 ## 🔗 Découvrez mes projets :
 [Portfolio en cours](#) – À venir bientôt !
