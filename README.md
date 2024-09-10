@@ -34,7 +34,7 @@ A Junior Web Developer position where I can apply my skills to real projects bri
 
 ---
 
-## 🇫🇷 Version française ci-dessous ⬇️
+## Version française ci-dessous ⬇️
 
 # 👩‍💻 Développeuse Web Junior
 
